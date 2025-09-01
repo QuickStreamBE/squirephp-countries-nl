@@ -19,8 +19,8 @@
     "require": {
         "php": "^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0",
-        "squirephp/countries": "3.6",
-        "squirephp/repository": "3.6"
+        "squirephp/countries": "^3.10",
+        "squirephp/repository": "^3.10"
     },
     "autoload": {
         "psr-4": {
